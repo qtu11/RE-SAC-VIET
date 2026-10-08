@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+dist/
+.legacy-vite-dist/
+test-results/
+playwright-report/
+*.tsbuildinfo
+.env.local
+.env*.local
